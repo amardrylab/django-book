@@ -1,0 +1,6 @@
+db.sqlite3
+project_uwsgi.ini
+uwsgi_params
+admin
+home
+project.sock
